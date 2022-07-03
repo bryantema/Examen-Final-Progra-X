@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PxfhIR4e8xtxz4eCnb3twtUknMh4PaUsVMgF1pf2Ojp4pQjnR85im+RQfOpYUoiP+4FSf2Y76bUfOHeZorBE0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Downloads\\Examen-Final-Progra-X-main\\Bryan Examen Final\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A958v8a3r+xguQ2A533zFmOaIj4uDuoHmyQd0/6TwGLSYwSy6kQg4Gy7FNBwUwHACpb3IOUcfPKo3wUmWMwKPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Home\\Downloads\\Examen-Final-Progra-X-main\\Bryan Examen Final\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
